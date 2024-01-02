@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'SDWebImageWebPCoder'
   spec.dependency "LibVECore"
   spec.dependency "ZipArchive"
-  spec.dependency "MBProgressHUD",'1.1.0'
+  spec.dependency "MBProgressHUD"
   spec.dependency "ATMHud"
   spec.dependency 'MNNFaceDetection', '0.0.4'
   spec.dependency 'GoogleMLKit/SegmentationSelfie'
